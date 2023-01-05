@@ -1,0 +1,22 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    background-color:lightblue;
+    width: 400px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.App-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.App{
+    margin: 20px;
+}
+#form-group{
+    margin: 15px;
+}
